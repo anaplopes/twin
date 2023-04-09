@@ -1,2 +1,3 @@
-# twin
-Compara duas palavras para saber se são gêmeas
+# Twin
+
+Compara duas palavras se gêmeas retorna True
